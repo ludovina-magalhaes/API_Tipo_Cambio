@@ -45,14 +45,15 @@ Estructura del Repositorio
 
 
 
-Resultados Esperados
-Identificación de patrones en las variaciones cambiarias a lo largo de 2024.
+**Resultados Esperados**
 
-Visualizaciones interactivas que facilitan la comprensión de las fluctuaciones de las monedas.
+- Identificación de patrones en las variaciones cambiarias a lo largo de 2024.
 
-Insights accionables para la toma de decisiones estratégicas basadas en los datos analizados.
+- Visualizaciones interactivas que facilitan la comprensión de las fluctuaciones de las monedas.
 
-Consideraciones Finales
+- Insights accionables para la toma de decisiones estratégicas basadas en los datos analizados.
+
+**Consideraciones Finales**
 Este proyecto demuestra la aplicación práctica de la metodología KDD en el análisis de datos financieros, utilizando herramientas accesibles e integradas. El enfoque sistemático permite la extracción de conocimiento valioso a partir de grandes volúmenes de datos, contribuyendo a decisiones más informadas y precisas.
 
 Siéntete libre de adaptar este modelo conforme a las necesidades específicas de tu proyecto. Si necesitas asistencia adicional en la personalización o en la creación de archivos específicos, estoy a tu disposición para ayudar.

@@ -40,7 +40,8 @@ Looker Studio: Herramienta de visualización de datos para la creación de dashb
 
 GitHub: Repositorio para el versionamiento y la colaboración en el proyecto.
 
-📂 Estructura del Repositorio
+Estructura del Repositorio
+![image](https://github.com/user-attachments/assets/2e223617-c553-4afd-917e-e1beaaf16b1e)
 
 
 

@@ -1,5 +1,6 @@
 # API_Tipo_Cambio
 
+![image](https://github.com/user-attachments/assets/bb967582-1825-4ae7-a77b-79f740f9a1ad)
 
 **Análisis de Tipo de Cambio con Metodología KDD**        
 Este proyecto aplica la metodología KDD (Knowledge Discovery in Databases) para analizar la variación cambiaria de monedas como USD, CHF y GBP en relación con el EUR durante el año 2024. Utilizando herramientas como Google Colab, API Layer, Google Drive, Google Sheets y Looker Studio, el objetivo es identificar patrones e insights que ayuden en la toma de decisiones estratégicas.
@@ -42,7 +43,6 @@ GitHub: Repositorio para el versionamiento y la colaboración en el proyecto.
 
 Estructura del Repositorio
 ![image](https://github.com/user-attachments/assets/2e223617-c553-4afd-917e-e1beaaf16b1e)
-
 
 
 **Resultados Esperados**
